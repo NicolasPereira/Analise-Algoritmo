@@ -51,3 +51,10 @@ Apresentar ao aluno os principais aspectos que envolvem o projeto e a implementa
 - Conceitos básicos.
 - Tipos de falhas. 
 - Mascaramento de Falha por redundância.
+
+8. Segurança
+
+- Introdução, Ameaças e Tipos de Ameaças.
+- Mecanismos de Segurança.
+- Questões de Projetos.
+- Criptografia.
