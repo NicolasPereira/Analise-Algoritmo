@@ -58,3 +58,13 @@ Apresentar ao aluno os principais aspectos que envolvem o projeto e a implementa
 - Mecanismos de Segurança.
 - Questões de Projetos.
 - Criptografia.
+
+9. Cluster de Computadores
+- Conceitos
+- Tipos de Cluster
+
+10. Programação Paralela
+- Escalonamento de Tarefas
+- Migração de Processos
+- Paralelismo
+- Medidas de Desempenho (SpeedUp - Leo de Amdahl)
