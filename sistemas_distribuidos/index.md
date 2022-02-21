@@ -1,0 +1,44 @@
+## Informações gerais do professor
+
+Sistemas Distribuidos
+Professor Carlos lahoz
+
+Segundas 19h10 - 22h0 
+Carga horária: 3 horas-aula/semana
+
+## Objetivos
+Apresentar ao aluno os principais aspectos que envolvem o projeto e a implementação de um sistema hibrido.
+
+## Conteúdo Programático.
+
+1. Definição de um sistema distribuído:
+- Middleware.
+- Conceitos de Transparência. 
+- Interoperabilidade.
+- Confiabilidade.
+- Perfomance.
+- Escalabilidade.
+
+2. Tipos de Sistemas Distribuídos:
+- Sistemas de computação Distribuídos
+    - Tarefas de computação de Alto Desempenho.
+- Sistemas de Informação Distribuídos
+    - Diferentes aplicações em derede. Intragração.
+- Sistemas Distribuídos Pervasivos
+    - Dispositivos de computação móveis e embutidos.
+
+3. Arquitetruas
+- Arquiteturas em Camadas.
+- Arquiteturas baseadas em objetos.
+- Arquiteturas centradas em dados.
+- Arquiteturas baseadas em eventos.
+
+4. Processos
+- Threads.
+- Virtualização.
+- Migração de Códigos.
+
+5. Comunicação
+- Chamada de procedimentos remoto.
+- Primitivas bloqueantes, não bloqueantes.
+- Comunicação grupal.
