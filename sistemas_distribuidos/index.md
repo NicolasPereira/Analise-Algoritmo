@@ -42,3 +42,12 @@ Apresentar ao aluno os principais aspectos que envolvem o projeto e a implementa
 - Chamada de procedimentos remoto.
 - Primitivas bloqueantes, não bloqueantes.
 - Comunicação grupal.
+
+6. Sincronização
+- Sincronização de relógios.
+- Algoritmos de Lamport
+
+7. Tolerância a Falhas
+- Conceitos básicos.
+- Tipos de falhas. 
+- Mascaramento de Falha por redundância.
